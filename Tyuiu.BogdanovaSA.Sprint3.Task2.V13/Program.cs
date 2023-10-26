@@ -37,7 +37,7 @@ namespace Tyuiu.BogdanovaSA.Sprint3.Task2.V13
             Console.WriteLine("Конец шага = " + stopValue);
 
 
-
+            //
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
